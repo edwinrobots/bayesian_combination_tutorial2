@@ -1,0 +1,14 @@
+name: bcc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - scikit-learn
+  - datasets
+  - ipywidgets
+  - nltk
+  - matplotlib
+  - pandas
+  - scipy
