@@ -10,9 +10,9 @@ Next, enter the conda environment:
 conda activate bcc
 ~~~
 
-Launch a jupyter notebook:
+Launch a jupyter lab instance:
 ~~~
-jupyter notebook
+jupyter lab
 ~~~
 
 Then open aggregation_tutorial.ipynb.
