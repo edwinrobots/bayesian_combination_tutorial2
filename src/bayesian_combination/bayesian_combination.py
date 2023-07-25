@@ -11,12 +11,12 @@ from bayesian_combination.annotator_models.acc import AccuracyAnnotator
 from bayesian_combination.annotator_models.cm import ConfusionMatrixAnnotator
 from bayesian_combination.annotator_models.cv import ConfusionVectorAnnotator
 from bayesian_combination.annotator_models.dynamic_cm import DynamicConfusionMatrixAnnotator
-from bayesian_combination.label_models.GP_label_model import GPCLabelModel
-from bayesian_combination.tagger_wrappers.gpc import GPC
+# from bayesian_combination.label_models.GP_label_model import GPCLabelModel
+# from bayesian_combination.tagger_wrappers.gpc import GPC
 from bayesian_combination.tagger_wrappers.indfeatures import IndependentFeatures
 from bayesian_combination.label_models.label_model import IndependentLabelModel
 from bayesian_combination.label_models.markov_label_model import MarkovLabelModel
-from bayesian_combination.tagger_wrappers.lstm import LSTM
+# from bayesian_combination.tagger_wrappers.lstm import LSTM
 from bayesian_combination.annotator_models.spam import SpamAnnotator
 from bayesian_combination.annotator_models.seq import SequentialAnnotator
 
