@@ -5,9 +5,14 @@ To run the tutorial, use Anaconda. Setup a conda environment using the environme
 conda env create --file environment.yml
 ~~~
 
-Next, launch a jupyter notebook:
+Next, enter the conda environment:
 ~~~
-jupyter notebook
+conda activate bcc
+~~~
+
+Launch a jupyter lab instance:
+~~~
+jupyter lab
 ~~~
 
 Then open aggregation_tutorial.ipynb.
