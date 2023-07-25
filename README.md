@@ -6,7 +6,7 @@ conda env create --file environment.yml
 ~~~
 
 Next, enter the conda environment:
-~~
+~~~
 conda activate bcc
 ~~~
 
