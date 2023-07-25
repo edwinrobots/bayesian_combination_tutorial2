@@ -5,7 +5,12 @@ To run the tutorial, use Anaconda. Setup a conda environment using the environme
 conda env create --file environment.yml
 ~~~
 
-Next, launch a jupyter notebook:
+Next, enter the conda environment:
+~~
+conda activate bcc
+~~~
+
+Launch a jupyter notebook:
 ~~~
 jupyter notebook
 ~~~
